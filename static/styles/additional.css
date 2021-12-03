@@ -1,0 +1,25 @@
+#mainpromo {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+form label {
+    width: 200px;
+}
+
+form .btn {
+    border: 2px solid #ffffff;
+    background-color: #111111;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+form .inp {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+}
+
+form .block {
+    padding: 5px;
+}
